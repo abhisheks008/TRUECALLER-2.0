@@ -11,7 +11,7 @@ _the phone number can't be shown due to security issues_
 ## Platform used :
 - Visual Studio Code
 **************************************************************************************************************************************************
->> _This is a raw code of the Truecaller 2.0. Working on the project and making a GUI shortly for the software. Till that support us!_ 
+_This is a raw code of the Truecaller 2.0. Working on the project and making a GUI shortly for the software. Till that support us!_ 
 **************************************************************************************************************************************************
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
